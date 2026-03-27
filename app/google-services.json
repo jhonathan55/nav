@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855191794207",
+    "project_id": "android95-c8f4f",
+    "storage_bucket": "android95-c8f4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855191794207:android:669adc2261ae6de75bdb2a",
+        "android_client_info": {
+          "package_name": "com.infocal.nav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHwXYaF4JIDwcELJthDunoYmiuaSABdTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -25,24 +25,6 @@
             android:paddingTop="40dp"
             android:paddingBottom="24dp">
 
-            <TextView
-                android:id="@+id/registerTitle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Crear cuenta"
-                android:textAppearance="?attr/textAppearanceHeadlineSmall"
-                android:textStyle="bold"
-                android:layout_marginBottom="8dp" />
-
-            <TextView
-                android:id="@+id/registerSubtitle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Completa tus datos para registrarte"
-                android:textAppearance="?attr/textAppearanceBodyMedium"
-                android:alpha="0.75"
-                android:layout_marginBottom="24dp" />
-
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/registerCard"
                 android:layout_width="match_parent"
